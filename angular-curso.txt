@@ -1,0 +1,3 @@
+angular:
+npm i --save <nom-dependencia> - importante pois quando versionar código e quiser restaurar as dependencias do node modules, inserir esse npm
+e para restaurar, apenas coloque npm i
